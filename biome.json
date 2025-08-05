@@ -7,7 +7,7 @@
   },
   "files": {
     "ignoreUnknown": true,
-    "includes": ["src/**", "*.config.js", "*.config.ts"],
+    "includes": ["src/**", "*.config.js", "*.config.ts", "package.json"],
     "experimentalScannerIgnores": [".next/**", "out/**", "node_modules/**", ".git/**"]
   },
   "formatter": {
