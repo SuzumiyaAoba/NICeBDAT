@@ -1,4 +1,4 @@
-# NICeBDAT - Next.js 15 SSG プロジェクト
+# mieruca - Next.js 15 SSG プロジェクト
 
 Next.js 15を使用した静的サイト生成（SSG）対応のWebアプリケーションです。
 
@@ -59,7 +59,7 @@ npm run lint
 ## プロジェクト構造
 
 ```
-NICeBDAT/
+mieruca/
 ├── src/
 │   └── app/
 │       ├── layout.tsx          # ルートレイアウト
